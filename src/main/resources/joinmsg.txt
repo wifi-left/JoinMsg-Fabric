@@ -1,0 +1,6 @@
+url=http://127.0.0.1/msg
+join_prefix=玩家 
+leave_prefix=玩家
+join_after=加入了游戏
+leave_after=离开了游戏
+serverStart=服务器已上线
